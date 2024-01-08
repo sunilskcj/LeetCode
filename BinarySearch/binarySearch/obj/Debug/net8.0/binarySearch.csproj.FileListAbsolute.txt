@@ -1,0 +1,14 @@
+/home/sunil/Desktop/My Work/LeetCode/BinarySearch/binarySearch/bin/Debug/net8.0/binarySearch
+/home/sunil/Desktop/My Work/LeetCode/BinarySearch/binarySearch/bin/Debug/net8.0/binarySearch.deps.json
+/home/sunil/Desktop/My Work/LeetCode/BinarySearch/binarySearch/bin/Debug/net8.0/binarySearch.runtimeconfig.json
+/home/sunil/Desktop/My Work/LeetCode/BinarySearch/binarySearch/bin/Debug/net8.0/binarySearch.dll
+/home/sunil/Desktop/My Work/LeetCode/BinarySearch/binarySearch/bin/Debug/net8.0/binarySearch.pdb
+/home/sunil/Desktop/My Work/LeetCode/BinarySearch/binarySearch/obj/Debug/net8.0/binarySearch.GeneratedMSBuildEditorConfig.editorconfig
+/home/sunil/Desktop/My Work/LeetCode/BinarySearch/binarySearch/obj/Debug/net8.0/binarySearch.AssemblyInfoInputs.cache
+/home/sunil/Desktop/My Work/LeetCode/BinarySearch/binarySearch/obj/Debug/net8.0/binarySearch.AssemblyInfo.cs
+/home/sunil/Desktop/My Work/LeetCode/BinarySearch/binarySearch/obj/Debug/net8.0/binarySearch.csproj.CoreCompileInputs.cache
+/home/sunil/Desktop/My Work/LeetCode/BinarySearch/binarySearch/obj/Debug/net8.0/binarySearch.dll
+/home/sunil/Desktop/My Work/LeetCode/BinarySearch/binarySearch/obj/Debug/net8.0/refint/binarySearch.dll
+/home/sunil/Desktop/My Work/LeetCode/BinarySearch/binarySearch/obj/Debug/net8.0/binarySearch.pdb
+/home/sunil/Desktop/My Work/LeetCode/BinarySearch/binarySearch/obj/Debug/net8.0/binarySearch.genruntimeconfig.cache
+/home/sunil/Desktop/My Work/LeetCode/BinarySearch/binarySearch/obj/Debug/net8.0/ref/binarySearch.dll
